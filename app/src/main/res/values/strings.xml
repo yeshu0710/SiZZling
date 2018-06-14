@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SiZZling</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="recipes">Recipes</string>
+    <string name="ingredients_list">Ingredients List</string>
+    <string name="select_receipe">Select Receipe</string>
+    <string name="position">selected_position</string>
+    <style name="receipe_url">
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+    </style>
+</resources>
